@@ -26,6 +26,7 @@ This is a Student Fee Structure Management System created using VB.NET for manag
     - **Username:** student
     - **Password:** 1577
 3. Feel free to surf!
+   (Note: It may have some errors regarding file location which will be resolved soon.)
 
 ##Creator
 -Devika Bongarde  [@devikabongarde](https://github.com/devikabongarde)
